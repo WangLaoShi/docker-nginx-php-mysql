@@ -15,19 +15,19 @@
 
     我们将从其在 GitHub 上的存储库下载代码。
 
-3. [使用 SSL 证书配置 Nginx](#configure-nginx-with-ssl-certificates) [`可选地`]
+3. [使用 SSL 证书配置 Nginx](#configure-nginx-with-ssl-certificates) [`可选`]
 
     在运行服务器之前，我们将为 nginx 生成和配置 SSL 证书。
 
-4. [Configure Xdebug](#configure-xdebug) [`可选地`]
+4. [Configure Xdebug](#configure-xdebug) [`可选`]
 
-    我们将为 IDE（PHPStorm 或 Netbeans）配置 Xdebug。
+    我们将为 IDE（ PHPStorm 或 Netbeans ）配置 XDebug。
 
 5. [运行应用程序](#run-the-application)
 
     至此，我们将准备好所有项目部分。
 
-6. [使用 Makefile](#use-makefile) [`可选地`]
+6. [使用 Makefile](#use-makefile) [`可选`]
 
     开发时，您可以使用 `Makefile` 进行循环操作。
 
